@@ -1,4 +1,5 @@
-Email- joshimihir10@gmail.com
+# Mihir Joshi CV
+## Email- joshimihir10@gmail.com
 ## Software Development | Python | Business Analytics  
 
 # Education
